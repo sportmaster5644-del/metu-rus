@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "metu-russian-ai",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-01",
+  "vars": {
+    "GROQ_MODEL": "openai/gpt-oss-20b",
+    "ALLOWED_ORIGINS": "http://localhost:5173"
+  }
+}

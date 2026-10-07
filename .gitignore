@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+backend/.env
+backend/qdrant_data/
+backend/questions.jsonl
+backend/.notes_index.json
+__pycache__/
+*.pyc
+.DS_Store
+serverless/cloudflare-worker/.dev.vars
+serverless/cloudflare-worker/.dev.vars.*
+!serverless/cloudflare-worker/.dev.vars.example

@@ -1,0 +1,11 @@
+{
+  "name": "Русский язык · METU",
+  "short_name": "METU Russian",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090d17",
+  "theme_color": "#090d17",
+  "lang": "ru",
+  "icons": [{ "src": "./metu-logo.jpg", "sizes": "447x447", "type": "image/jpeg", "purpose": "any" }]
+}
